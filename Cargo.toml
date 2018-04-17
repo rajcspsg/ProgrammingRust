@@ -1,0 +1,6 @@
+[package]
+name = "ProgrammingRust"
+version = "0.1.0"
+authors = ["Rajkumar Natarajan <rajkumar.natarajan@synacor.com>"]
+
+[dependencies]
